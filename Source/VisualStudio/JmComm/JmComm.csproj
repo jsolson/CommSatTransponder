@@ -49,6 +49,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TweakableTransmitter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CommTransponder.cs" />
   </ItemGroup>
